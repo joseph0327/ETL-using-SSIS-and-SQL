@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 This repository contains my **SQL Server Integration Services (SSIS)** project, demonstrating **ETL (Extract, Transform, Load)** processes.  
-The solution highlights best practices in **data integration, transformation, and automation** using SSIS.  
-
-🔗 Reference Video Tutorial: [ETL SSIS Channel](https://www.youtube.com/watch?v=qmSsZhaFcZw&t=4521s)
+The solution highlights the **data integration, transformation, and automation** using SSIS.  
 
 ---
 
@@ -27,14 +25,11 @@ The solution highlights best practices in **data integration, transformation, an
 ## 🗂️ Project Architecture
 The following images show **SSIS Dataflows** and their transformation logic:  
 
-### 🔹 Dataflow 1
-![Dataflow 1](Dataflow2.png)  
-
-### 🔹 Dataflow 2
-![Dataflow 2](Dataflow3.png)  
-
-### 🔹 Dataflow 3
-![Dataflow 3](Dataflow4.png)  
+### 🔹 Dataflows
+![Dataflow 1](https://github.com/joseph0327/ETL-using-SSIS-and-SQL/blob/00233b5a090d0454f3ae0ea3cccdbfe78193746c/Dataflow.png)  
+![Dataflow 2](https://github.com/joseph0327/ETL-using-SSIS-and-SQL/blob/00233b5a090d0454f3ae0ea3cccdbfe78193746c/Dataflow2.png)  
+![Dataflow 3](https://github.com/joseph0327/ETL-using-SSIS-and-SQL/blob/00233b5a090d0454f3ae0ea3cccdbfe78193746c/Dataflow3.png)  
+![Dataflow 4](https://github.com/joseph0327/ETL-using-SSIS-and-SQL/blob/00233b5a090d0454f3ae0ea3cccdbfe78193746c/Dataflow4.png)  
 
 ---
 
