@@ -1,4 +1,5 @@
 # ETL using SSIS and SQL 🚀
+![Dataflow 1](https://github.com/joseph0327/ETL-using-SSIS-and-SQL/blob/00233b5a090d0454f3ae0ea3cccdbfe78193746c/Dataflow.png)
 
 ## 📌 Project Overview
 This repository contains my **SQL Server Integration Services (SSIS)** project, demonstrating **ETL (Extract, Transform, Load)** processes.  
